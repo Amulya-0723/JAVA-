@@ -1,0 +1,33 @@
+BASICS
+
+1) data type
+2)operator
+3)console flow statements- break and continue
+simple if
+if else
+nested if
+else if ladder
+switch case
+4)looping
+for
+while
+do while
+5)arrays
+1 dimensionl
+2
+multi
+6)functions
+recursion
+pointers
+structure
+union
+7)dynamic memory allocation
+MLR
+CLR
+
+
+DSA
+stack
+queue
+linked list
+graph
